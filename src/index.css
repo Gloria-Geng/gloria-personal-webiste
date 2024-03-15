@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Georgia, serif, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -35,9 +35,11 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
 button:hover {
   border-color: #646cff;
 }
+
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
@@ -47,6 +49,7 @@ button:focus-visible {
   .text-5xl {
     font-size: 2.5rem;
   }
+
   .text-xl {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -57,22 +60,28 @@ button:focus-visible {
   .text-base {
     font-size: 0.9rem;
   }
+
   .text-5xl {
     font-size: 1.5rem;
   }
+
   .text-4xl {
     font-size: 1.3rem;
   }
+
   .text-3xl {
     font-size: 1.25rem;
   }
+
   .text-2xl {
     font-size: 1.1rem;
   }
+
   .text-xl {
     font-size: 1rem;
     line-height: 1.2rem;
   }
+
   .text-lg {
     font-size: 0.65rem;
   }
