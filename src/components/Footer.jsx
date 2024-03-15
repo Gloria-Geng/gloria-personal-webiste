@@ -20,7 +20,7 @@ const Footer = () => {
       </div>
       <div>
         <p className="flex justify-center text-sm">
-          &copy; 2024 WICC Technical Committee Workshop
+          &copy; Gloria Geng
         </p>
       </div>
     </footer>
