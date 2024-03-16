@@ -1,6 +1,6 @@
 [
   {
-    "logo": "src/img/tech_logo.png",
+    "logo": "public/img/tech_logo.png",
     "role": "Research Intern",
     "time": "2023 - Present",
     "bullet points": [
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "logo": "src/img/cornell.png",
+    "logo": "public/img/cornell.png",
     "role": "Teaching Assistant",
     "time": "January 2024 - Present",
     "bullet points": [
