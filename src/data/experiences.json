@@ -1,6 +1,6 @@
 [
   {
-    "logo": "/img/tech_logo.png",
+    "logo": "src/img/tech_logo.png",
     "role": "Research Intern",
     "time": "2023 - Present",
     "bullet points": [
@@ -10,9 +10,9 @@
     ]
   },
   {
-    "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "logo": "src/img/cornell.png",
+    "role": "Teaching Assistant",
+    "time": "January 2024 - Present",
     "bullet points": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "Ut pretium arcu et massa semper, id fringilla leo semper.",
@@ -20,9 +20,9 @@
     ]
   },
   {
-    "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "logo": "img/wicc_logo.png",
+    "role": "Girls Who Code Volunteer",
+    "time": "2022 - 2023",
     "bullet points": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "Ut pretium arcu et massa semper, id fringilla leo semper.",
